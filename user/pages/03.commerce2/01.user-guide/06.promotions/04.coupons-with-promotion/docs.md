@@ -17,4 +17,6 @@ You go through the a [same steps as creating a promotion](../01.create-promotion
   
 ![](../images/creating_a_coupon.png)
 
-Finally, "Save" the promotion. Let's test this out by adding a few products that amount to an order total of over $100. Notice that a discount is not automatically applied as you have added a coupon to the promotion. Instead, in the "Checkout" page, you can see a 'Coupon code' textfield. Enter the coupon code in the promotion and hit "Apply coupon". You can now see that the 15% discount has been applied to the entire order.
+Finally, "Save" the promotion. 
+
+Let's test this out by adding a few products that amount to an order total of over $100. Notice that a discount is not automatically applied as you have added a coupon to the promotion. Instead, in the "Checkout" page, you can see a 'Coupon code' textfield. Enter the coupon code in the promotion and hit "Apply coupon". You can now see that the 15% discount has been applied to the entire order.
